@@ -10,6 +10,8 @@ public class LoginPageOREdu {
 	
 	WebDriver driver;
 	
+	int a;
+	
 	@FindBy(id = "login1")
 	WebElement username;
 	
